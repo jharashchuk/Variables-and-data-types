@@ -1,4 +1,8 @@
-# js-basic
+# Variables and data types
+
+#### <a href="https://jharashchuk.github.io/Variables-and-data-types/">https://jharashchuk.github.io/Variables-and-data-types/</a>
+
+---
 
 ### Задание A!
 
